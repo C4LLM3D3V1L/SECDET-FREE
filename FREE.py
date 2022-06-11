@@ -1,4 +1,8 @@
 #----------------------------------------
 # Facebook : Adnan Adif Hisham
 #----------------------------------------
-print("FREE USES DATE CHANGE")
+import os
+
+os.system("clear")
+
+print("TOOL ON UPDATE")
